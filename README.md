@@ -162,4 +162,4 @@ minty pin 1
 > 🌿 Pinned all data for token id 1
 ```
 
-The `pin` command looks for some configuration info to connect to the remote pinning service. See the [Configuration section](#configuration) above for details.
+The `pin` command looks for some configuration info to connect to the remote pinning service. See the [Configuration section](#configuration) above for details.# minty
